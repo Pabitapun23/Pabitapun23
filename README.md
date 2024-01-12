@@ -2,7 +2,6 @@
 
 <p align="center">
     <strong>A passionate Software Engineering Graduate.</strong>
-    <strong>bold text</strong>
 </p>
 
 I’m currently studying **Mobile Application Development** at **George Brown College.** 
