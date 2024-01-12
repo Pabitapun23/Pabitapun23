@@ -1,8 +1,6 @@
 # Hi, I'm Pabita 👋👩🏻‍💻
 
-<p align="center">
-    <h4><strong>A passionate Software Engineering Graduate.</strong></h4>
-</p>
+<h3 align="center"><strong>A passionate Software Engineering Graduate.</strong></h3>
 
 I’m currently studying **Mobile Application Development** at **George Brown College.** 
 
