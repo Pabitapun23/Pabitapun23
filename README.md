@@ -1,6 +1,6 @@
 # Hi, I'm Pabita 👋👩🏻‍💻
 
-<p align="center" style="font-family: bold;">
+<p align="center" style="font-weight: bold;">
     A passionate Software Engineering Graduate.
 </p>
 
