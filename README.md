@@ -1,7 +1,7 @@
 # Hi, I'm Pabita 👋👩🏻‍💻
 
 <p align="center">
-    <strong>A passionate Software Engineering Graduate.</strong>
+    <h4><strong>A passionate Software Engineering Graduate.</strong></h4>
 </p>
 
 I’m currently studying **Mobile Application Development** at **George Brown College.** 
@@ -12,7 +12,7 @@ I’m currently studying **Mobile Application Development** at **George Brown Co
   
 👯 I’m looking to collaborate on building Android or Web Applications.
 
-📫 How to reach me : pabita.pun23@gmail.com
+📫 How to reach me: pabita.pun23@gmail.com
 
 
 🌎 ## Connect with me:  
