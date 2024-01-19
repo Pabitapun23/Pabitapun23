@@ -52,6 +52,6 @@ I’m currently studying **Mobile Application Development** at **George Brown Co
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 
-<!-- ## 📈 GitHub Stats 
+## 📈 GitHub Stats 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pabitapun23&count_private=true&theme=react&showicons=true)]() -->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Pabitapun23&count_private=true&theme=react&showicons=true)]() 
