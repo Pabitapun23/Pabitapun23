@@ -2,13 +2,13 @@
 
 <h3 align="center"><strong>A passionate Software Engineering Graduate.</strong></h3>
 
-I’m currently studying **Mobile Application Development** at **George Brown College.** 
+I’m currently studying **Mobile Application Development and Strategies** at **George Brown College.** 
 
 🔭 I’m currently working on building some projects on Android development.
 
 🌱 I’m currently learning Swift and IOS development.
   
-👯 I’m looking to collaborate on building Android or Web Applications.
+👯 I’m looking to collaborate on building Mobile (Android or iOS) or Web Applications.
 
 📫 How to reach me: pabita.pun23@gmail.com
 
