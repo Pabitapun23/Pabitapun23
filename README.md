@@ -6,7 +6,7 @@ I’m currently studying **Mobile Application Development and Strategies** at **
 
 🔭 I’m currently working on building some projects on Android development.
 
-🌱 I’m currently learning Swift and IOS development.
+🌱 I’m currently learning Swift and iOS development.
   
 👯 I’m looking to collaborate on building Mobile (Android or iOS) or Web Applications.
 
