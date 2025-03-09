@@ -1,14 +1,14 @@
 # Hi, I'm Pabita 👋👩🏻‍💻
 
-<h3 align="center"><strong>A passionate Software Engineering Graduate.</strong></h3>
+<h3 align="center"><strong>A passionate Software Engineering Graduate and immerging User Experience Designer.</strong></h3>
 
-I’m currently studying **Mobile Application Development and Strategies** at **George Brown College.** 
+I completed my Post-graduate Degree in **Mobile Application Development and Strategies** at **George Brown College.** 
 
-🔭 I’m currently working on building some projects on Android development.
+🔭 I’m currently working on building some projects on NEXTJS, apps and also designing visually aesthetic and accessible UI and UX.
 
-🌱 I’m currently learning Swift and iOS development.
+🌱 I’m currently learning **User Experience Design** at **Humber Polytechnic**.
   
-👯 I’m looking to collaborate on building Mobile (Android or iOS) or Web Applications.
+👯 I’m looking to collaborate on building Mobile (Android or iOS) or Web Applications and designing more user-centred experiences.
 
 📫 How to reach me: pabita.pun23@gmail.com
 
