@@ -2,7 +2,7 @@
 
 <h3 align="center"><strong>A passionate Software Engineering Graduate and emerging User Experience Designer.</strong></h3>
 
-I completed my Post-graduate Degree in **Mobile Application Development and Strategies** at **George Brown College.** and **User Experience Design** at **Humber Polytechnic**. 
+I completed my Post-graduate Degree in **Mobile Application Development and Strategies** at **George Brown College** and **User Experience Design** at **Humber Polytechnic**. 
 
 🔭 I’m currently working on building some projects on NEXTJS, apps and also designing visually aesthetic and accessible UI and UX.
 
